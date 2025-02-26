@@ -20,3 +20,5 @@ Handle Missing Values - You can either drop rows with missing values or fill the
 Handle Duplicates - Remove any duplicate rows.
 Other Preprocessing (optional) - Apply transformations like type casting, renaming columns, etc.
 
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/0275d99d-6ee0-4923-b310-8b73e1050fb3)
